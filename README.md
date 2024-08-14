@@ -5,6 +5,7 @@
 
 **Features**
 🔲Responsive Design: The clone is designed to be fully responsive across various devices, providing a seamless user experience on desktops, tablets, and mobile devices.
+
 🔲Product Listings: Display a wide range of products with detailed descriptions, prices, and images.
 🔲Dynamic User Interaction: Utilizes JavaScript for interactive elements like real-time cart updates, user form validation, and more.
 
